@@ -13,7 +13,7 @@ class OpenAILLM:
 
             if openai_api_key=="" and os.environ["OPENAI_API_KEY"]=="":
                 st.error("Please Enter the OpenAI API key")
-        
+         
             llm= ChatOpenAI(api_key=openai_api_key, model=selected_openai_model)
         except Exception as e:
             raise ValueError(f"Error occured with Exception {e}")
