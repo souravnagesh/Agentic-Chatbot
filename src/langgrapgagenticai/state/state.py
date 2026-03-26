@@ -8,3 +8,6 @@ class State(TypedDict):
     of the State of the graph
     """
     messages: Annotated[List,add_messages]
+    news_data: list
+    summary:str
+    filename:str

@@ -19,8 +19,10 @@ def load_langgraph_agenticai_app():
     if not user_input:
         st.error("Error, Failed to load the user input from UI")
         return
-    
-    user_message= st.chat_input("Enter your message:")
+    if st.session_state.IsFetchButtonClicked:
+        user_message= st.session_state.timeframe
+    else:
+        user_message= st.chat_input("Enter your message:")
 
     if user_message:
         try:
