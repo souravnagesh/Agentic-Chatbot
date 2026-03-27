@@ -67,10 +67,10 @@ class GraphBuilder:
         if usecase =="Basic Chatbot":
             self.basic_chatbot_build_graph()
         
-        if usecase =="Chatbot with Web":
+        elif usecase =="Chatbot with Web":
             self.chatbot_with_tool_build_graph()
         
-        if usecase =="AI News":
+        elif usecase =="AI News":
             self.ai_news_builder_grpah()
 
         return self.graphbuilder.compile()
