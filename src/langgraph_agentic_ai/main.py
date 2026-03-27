@@ -1,8 +1,8 @@
 import streamlit as st
-from src.langgrapgagenticai.ui.streamlitui.loadui import LoadStreamlitUI
-from src.langgrapgagenticai.LLMs.openaillm import OpenAILLM 
-from src.langgrapgagenticai.graph.graph_builder import GraphBuilder
-from src.langgrapgagenticai.ui.streamlitui.display_results import DisplayResultsStreamlit
+from src.langgraph_agentic_ai.ui.streamlitui.loadui import LoadStreamlitUI
+from src.langgraph_agentic_ai.LLMs.openaillm import OpenAILLM 
+from src.langgraph_agentic_ai.graph.graph_builder import GraphBuilder
+from src.langgraph_agentic_ai.ui.streamlitui.display_results import DisplayResultsStreamlit
 
 def load_langgraph_agenticai_app():
     """

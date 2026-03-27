@@ -1,4 +1,4 @@
-from src.langgrapgagenticai.state.state import State
+from src.langgraph_agentic_ai.state.state import State
 from tavily import TavilyClient
 from langchain_core.prompts import ChatPromptTemplate
 
