@@ -84,6 +84,20 @@ START → Fetch News → Summarize News → Save to File → END
 
 ---
 
+## Screenshots
+
+### Basic Chatbot
+![Basic Chatbot](assets/Basic_chatbot.png)
+
+### Chatbot with Web Search
+![Chatbot with Web Search - Tool Call](assets/chatbot_with_web_1.png)
+![Chatbot with Web Search - Response](assets/chatbot_with_web_2.png)
+
+### AI News Aggregator
+![AI News Aggregator](assets/ai_news.png)
+
+---
+
 ## Prerequisites
 
 - Python 3.12

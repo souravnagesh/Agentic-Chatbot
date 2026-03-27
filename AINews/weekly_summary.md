@@ -1,22 +1,26 @@
 # Weekly AI News Summary
 
 ### 2026-25-03
-- Zhang Fei from vivo spoke on the role of AI in industrial upgrading at the Boao Forum for Asia 2026. (https://www.indiasnews.net/news/278943728/china-hainan-boao-bfa-panel-discussion-ai-industrial-upgrading-cn)
+- Zhang Fei, vice president of AI at vivo, discussed the impact of AI on industrial upgrading during the Boao Forum for Asia Annual Conference 2026 in Hainan, China. [Read more](https://www.indiasnews.net/news/278943728/china-hainan-boao-bfa-panel-discussion-ai-industrial-upgrading-cn)
 
 ### 2026-24-03
-- The Indian government is reviewing the production-linked incentive scheme for IT hardware in light of rising GPU costs and AI server demand. (https://telecom.economictimes.indiatimes.com/amp/news/policy/revamp-of-pli-scheme-to-address-rising-gpu-costs-for-ai-server-technology/129766078)
-
-### 2026-26-03
-- A report discusses the physical AI revolution, shedding light on how AI technologies are evolving to support enhanced efficiency and effectiveness in various sectors. (https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/03/26/ai-tech-brief-physical-ai-revolution/)
-
+- The Indian government is re-evaluating its production-linked incentive (PLI) scheme for IT hardware due to the rising costs of GPUs and the growing demand for AI servers. [Read more](https://telecom.economictimes.indiatimes.com/amp/news/policy/revamp-of-pli-scheme-to-address-rising-gpu-costs-for-ai-server-technology/129766078)
+- Logile's Connected Workforce Platform was awarded the 2026 Artificial Intelligence Excellence Award for its advancements in automated planning and scheduling. [Read more](https://www.lelezard.com/en/news-22161473.html)
+  
+### 2026-23-03
+- OpenAI plans to expand its workforce to 8,000 by the end of 2026 to enhance its competitive edge in the AI sector as demand for enterprise AI talent grows. [Read more](https://www.computerworld.com/article/4148621/openai-to-double-workforce-highlights-growing-demand-for-enterprise-ai-talent.html)
+- A Cognex research report indicates that more manufacturers are implementing AI in their machine vision systems, expecting improvements in performance and ease of use. [Read more](https://www.manilatimes.net/2026/03/23/tmt-newswire/pr-newswire/new-cognex-research-reveals-manufacturers-increasingly-expect-ai-vision-systems-to-deliver-both-high-performance-and-simplicity/2305668/amp)
+  
 ### 2026-22-03
-- OpenAI aims to double its workforce to about 8,000 by year-end to enhance its position in the competitive AI market. (https://www.lokmattimes.com/business/openai-eyes-8000-workforce-amid-rising-ai-competition-report/)
-- Meta CEO Mark Zuckerberg is developing an AI agent to assist him in his role, enhancing decision-making efficiency. (https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5)
-- OpenAI's planned expansion comes as competition with rivals like Anthropic heats up, highlighting the need for enterprise AI talent. (https://www.hokanews.com/2026/03/openai-plans-to-double-workforce-to.html)
-
+- OpenAI reported that it is doubling its employees amid rising competition from rivals like Anthropic in the AI market. [Read more](https://www.lokmattimes.com/business/openai-eyes-8000-workforce-amid-rising-ai-competition-report/)
+- The Anthropic AI market share surpasses OpenAI's, leading to a significant workforce expansion announcement from OpenAI. [Read more](https://voice.lapaas.com/openai-to-double-workforce-to-8000/)
+  
 ### 2026-21-03
-- OpenAI is reporting challenges in maintaining market share against emerging competitors like Anthropic, prompting the workforce expansion. (https://www.news18.com/tech/openai-plans-to-double-workforce-to-8000-by-2026-to-gain-edge-in-ai-race-ws-l-9990350.html)
-- Small businesses feel the pressure from AI advancements, reflecting in various sectors' technological evolutions. (https://www.forbes.com/sites/quickerbettertech/2026/03/21/small-business-tech-news-google-maps-gets-a-big-ai-upgrade/)
-
+- A report highlights the urgent need for Australia’s legal sector to adopt AI tools effectively to improve productivity as they lag behind other markets. [Read more](http://itwire.com/guest-articles/guest-research/ai-set-to-define-law-firm-profitability-as-adoption-gaps-widen-across-the-profession.html)
+  
 ### 2026-20-03
-- Huawei introduced its AI-native framework and new solutions aimed at enhancing intelligent operations during MWC Barcelona. (https://totaltele.com/huawei-unveils-ai-native-framework-and-new-generation-solutions-to-enable-all-intelligence/)
+- Google’s president stated the U.S. needs to accelerate energy development to keep pace with AI demands, emphasizing the significant energy capacities required for AI data centers. [Read more](https://www.itnews.com.au/news/us-needs-more-energy-development-to-power-ai-google-president-says-624524)
+- Huawei introduced an AI-native framework and solutions aimed at revolutionizing industry operations during the MWC Barcelona 2026. [Read more](https://totaltele.com/huawei-unveils-ai-native-framework-and-new-generation-solutions-to-enable-all-intelligence/)
+  
+### 2026-22-03
+- Mark Zuckerberg is creating an AI agent to assist him in his role as CEO of Meta Platforms, emphasizing the company's shift towards embracing AI. [Read more](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?gaa_at=eafs&gaa_n=AWEtsqdIfPi1Cn_HLaRQ3-GPRjnI5olG8k_-8O7-yA9eQPA1voBTpb3cDSMA&gaa_ts=69c0734a&gaa_sig=YRMf0A6PsH0wb6ynkrOzzcEltfdsMiLu2iefh55LzjGE5kIBeMRTbUG7oBpUund0am1Yp-veBiNWNJ_1N-ldzA%3D%3D)
